@@ -36,8 +36,6 @@
                 ?></td>
                 <?php endif; ?>
                 <td  class="text-center">
-                
-                
                <?php 
               // debug($user);
                if($user['Usuario']['nivel_id']!=4):?>
@@ -45,7 +43,7 @@
                 
                  <a onclick="loadResource(<?php echo $auditoria['Auditoria']['id']; ?>, '<?php echo APP_WWW . "planauditorias/view/" . $auditoria['Auditoria']['id'] .'/'?>', 'lista')"><span class="fa fa-list fa-lg"  aria-hidden="true" title="Ver Plan/Programa de Auditoria"></span></a>&nbsp;
                  <a onclick="loadResource(<?php echo $auditoria['Auditoria']['id']; ?>, '<?php echo APP_WWW . "planauditorias/asignar3/" . $auditoria['Auditoria']['id'] .'/'?>', 'lista')"><i class="fa fa-plus-square-o fa-lg"  aria-hidden="true" title="Agregar Plan"></i></a>&nbsp;
-		    <a onclick="loadResource(<?php echo $auditoria['Auditoria']['id']; ?>, '<?php echo APP_WWW . "auditorias/editar/"?>', 'lista')"><i class="fa fa-edit fa-lg" title="editar datos" aria-hidden="true" ></i></a>&nbsp; 
+		         <a onclick="loadResource(<?php echo $auditoria['Auditoria']['id']; ?>, '<?php echo APP_WWW . "auditorias/editar/"?>', 'lista')"><i class="fa fa-edit fa-lg" title="editar datos" aria-hidden="true" ></i></a>&nbsp; 
                 
                 <?php else:?>
                 <a href="<?php echo APP_WWW . "planauditorias/index/".$auditoria['Auditoria']['id'].'/'?>" <i class=" fa fa-list fa-lg"  aria-hidden="true" title="Detalles de Auditoria por proceso"></i></a>
