@@ -11,7 +11,7 @@
 <div class="col-md-12 text-center"><br>
                     <?php
                     $options = array(
-                        'label' => 'Guardar Plan de Acción',
+                        'label' => 'Guardar Plan de Acción1',
                         'class' => 'btn btn-success',
                         'div' => false
                     );
