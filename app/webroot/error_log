@@ -1,0 +1,143 @@
+[11-Nov-2016 09:02:46 America/Detroit] PHP Fatal error:  Call to undefined function setFlash() in /home/funsofi/public_html/calidad/app/Controller/UsuariosController.php on line 92
+[11-Nov-2016 12:23:45 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/funsofi/public_html/calidad/app/Controller/InformesController.php on line 99
+[23-Nov-2016 14:59:23 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 119
+[23-Nov-2016 15:01:08 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/View/Informes/indexcorreos.ctp on line 3
+[23-Nov-2016 15:01:44 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/View/Informes/indexcorreos.ctp on line 3
+[23-Nov-2016 15:06:31 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/View/Informes/indexcorreos.ctp on line 3
+[23-Nov-2016 15:07:36 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/View/Informes/indexgenerar.ctp on line 3
+[23-Nov-2016 15:08:24 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/View/Informes/indexgenerar.ctp on line 3
+[23-Nov-2016 15:08:50 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/View/Informes/indexgenerar.ctp on line 3
+[24-Nov-2016 13:09:51 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Causas/add.ctp on line 7
+[24-Nov-2016 13:10:37 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Causas/add.ctp on line 9
+[24-Nov-2016 13:14:15 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Causas/add.ctp on line 2
+[24-Nov-2016 13:14:34 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Causas/add.ctp on line 2
+[24-Nov-2016 13:15:15 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Causas/add.ctp on line 2
+[24-Nov-2016 13:15:36 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Causas/add.ctp on line 2
+[24-Nov-2016 16:21:20 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/Controller/PlanauditoriasController.php on line 165
+[25-Nov-2016 10:37:30 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 39
+[25-Nov-2016 10:40:55 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 39
+[25-Nov-2016 10:47:22 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 39
+[25-Nov-2016 10:48:03 America/Detroit] PHP Parse error:  syntax error, unexpected '"?> <i class="' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 39
+[25-Nov-2016 10:49:37 America/Detroit] PHP Parse error:  syntax error, unexpected 'fa' (T_STRING) in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 39
+[25-Nov-2016 10:53:32 America/Detroit] PHP Parse error:  syntax error, unexpected '"?>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 40
+[25-Nov-2016 10:53:58 America/Detroit] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 40
+[30-Nov-2016 13:01:51 America/Detroit] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/calidad/public_html/calidad/app/Controller/UsuariosController.php on line 34
+[30-Nov-2016 16:43:02 America/Detroit] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ')' in /home/calidad/public_html/calidad/app/View/Empresas/add.ctp on line 45
+[30-Nov-2016 16:46:20 America/Detroit] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ')' in /home/calidad/public_html/calidad/app/View/Empresas/add.ctp on line 45
+[30-Nov-2016 17:00:08 America/Detroit] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ')' in /home/calidad/public_html/calidad/app/View/Empresas/add.ctp on line 45
+[30-Nov-2016 17:00:43 America/Detroit] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ')' in /home/calidad/public_html/calidad/app/View/Empresas/add.ctp on line 45
+[01-Dec-2016 11:15:56 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Usuarios/index.ctp on line 21
+[01-Dec-2016 12:21:02 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Controller/EmpresasController.php on line 30
+[01-Dec-2016 20:26:54 America/Detroit] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 12
+[01-Dec-2016 21:07:42 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/IndicesplanificacionsController.php on line 125
+[01-Dec-2016 21:08:11 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/IndicesplanificacionsController.php on line 125
+[01-Dec-2016 21:27:59 America/Detroit] PHP Parse error:  syntax error, unexpected '/' in /home/calidad/public_html/calidad/app/Controller/IndicesplanificacionsController.php on line 134
+[02-Dec-2016 14:14:36 America/Detroit] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 10
+[02-Dec-2016 14:16:07 America/Detroit] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 10
+[02-Dec-2016 14:16:12 America/Detroit] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 10
+[02-Dec-2016 14:16:58 America/Detroit] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 10
+[02-Dec-2016 14:17:16 America/Detroit] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 10
+[07-Dec-2016 10:13:56 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 6
+[07-Dec-2016 10:15:34 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 6
+[07-Dec-2016 10:15:51 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 7
+[07-Dec-2016 10:16:05 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 19
+[07-Dec-2016 10:21:47 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 19
+[07-Dec-2016 10:22:08 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 19
+[07-Dec-2016 15:34:52 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 15
+[07-Dec-2016 15:35:24 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 15
+[07-Dec-2016 15:49:48 America/Detroit] PHP Parse error:  syntax error, unexpected '?>' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 12
+[08-Dec-2016 09:58:43 America/Detroit] PHP Parse error:  syntax error, unexpected '/' in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 83
+[08-Dec-2016 10:20:56 America/Detroit] PHP Parse error:  syntax error, unexpected 'debug' (T_STRING) in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 88
+[08-Dec-2016 10:21:06 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 87
+[08-Dec-2016 11:15:45 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/calidad/public_html/calidad/app/View/Informes/index.ctp on line 57
+[08-Dec-2016 11:16:34 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/calidad/public_html/calidad/app/View/Informes/index.ctp on line 57
+[08-Dec-2016 11:18:19 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/calidad/public_html/calidad/app/View/Informes/index.ctp on line 57
+[08-Dec-2016 12:41:04 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Auditorias/index.ctp on line 58
+[08-Dec-2016 15:00:37 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/calidad/public_html/calidad/app/View/Causas/index.ctp on line 26
+[08-Dec-2016 15:03:54 America/Detroit] PHP Parse error:  syntax error, unexpected ',' in /home/calidad/public_html/calidad/app/View/Causas/index.ctp on line 26
+[08-Dec-2016 15:18:29 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Causas/index.ctp on line 25
+[08-Dec-2016 15:19:02 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Causas/index.ctp on line 25
+[08-Dec-2016 15:30:11 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Actividades/add.ctp on line 6
+[08-Dec-2016 15:30:21 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Actividades/add.ctp on line 6
+[08-Dec-2016 15:31:14 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Actividades/add.ctp on line 6
+[08-Dec-2016 15:31:14 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Actividades/add.ctp on line 6
+[08-Dec-2016 15:33:19 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Actividades/add.ctp on line 6
+[08-Dec-2016 15:33:31 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Actividades/add.ctp on line 6
+[08-Dec-2016 17:04:17 America/Detroit] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY), expecting ')' in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 112
+[08-Dec-2016 17:10:01 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Informes/view.ctp on line 37
+[08-Dec-2016 17:23:42 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/View/Informes/view.ctp on line 51
+[09-Dec-2016 09:57:37 America/Detroit] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Informes/edit.ctp on line 18
+[09-Dec-2016 09:58:39 America/Detroit] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Informes/edit.ctp on line 18
+[09-Dec-2016 09:59:12 America/Detroit] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Informes/edit.ctp on line 18
+[09-Dec-2016 11:11:13 America/Detroit] PHP Parse error:  syntax error, unexpected 'si' (T_STRING), expecting ',' or ';' in /home/calidad/public_html/calidad/app/View/Informes/editcorreccion.ctp on line 35
+[14-Dec-2016 21:02:12 America/Detroit] PHP Parse error:  syntax error, unexpected ''));' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/calidad/public_html/calidad/app/Controller/CausasController.php on line 73
+[14-Dec-2016 21:04:04 America/Detroit] PHP Parse error:  syntax error, unexpected 'array' (T_ARRAY) in /home/calidad/public_html/calidad/app/Controller/CausasController.php on line 71
+[14-Dec-2016 21:04:20 America/Detroit] PHP Parse error:  syntax error, unexpected ')' in /home/calidad/public_html/calidad/app/Controller/CausasController.php on line 71
+[26-Dec-2016 13:14:59 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/Controller/PlanauditoriasController.php on line 174
+[13-Jan-2017 11:56:20 America/Detroit] PHP Parse error:  syntax error, unexpected ';' in /home/calidad/public_html/calidad/app/Config/database.php on line 101
+[13-Jan-2017 15:28:14 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 69
+[13-Jan-2017 15:30:14 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 69
+[13-Jan-2017 15:32:54 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 69
+[13-Jan-2017 15:35:12 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 69
+[13-Jan-2017 15:35:18 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 69
+[13-Jan-2017 15:44:17 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ClientesController.php on line 85
+[13-Jan-2017 15:44:23 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ClientesController.php on line 85
+[15-Jan-2017 09:59:03 America/Detroit] PHP Parse error:  syntax error, unexpected '}' in /home/calidad/public_html/calidad/app/Config/database.php on line 139
+[15-Jan-2017 10:01:42 America/Detroit] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/calidad/public_html/calidad/app/Model/Usuario.php on line 50
+[15-Jan-2017 10:02:05 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Model/Usuario.php on line 40
+[15-Jan-2017 11:33:53 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 96
+[15-Jan-2017 11:34:53 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 96
+[15-Jan-2017 11:43:22 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ClientesController.php on line 112
+[15-Jan-2017 12:57:41 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/AuditoriasController.php on line 90
+[15-Jan-2017 22:06:12 America/Detroit] PHP Parse error:  syntax error, unexpected '/', expecting function (T_FUNCTION) in /home/calidad/public_html/calidad/app/Model/Subnormaindex.php on line 16
+[18-Jan-2017 15:28:49 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/UsuariosController.php on line 132
+[18-Jan-2017 15:29:21 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/UsuariosController.php on line 132
+[19-Jan-2017 09:15:41 America/Detroit] PHP Parse error:  syntax error, unexpected '}', expecting ')' in /home/calidad/public_html/calidad/app/Model/Usuario.php on line 50
+[19-Jan-2017 09:15:56 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Model/Usuario.php on line 40
+[19-Jan-2017 09:30:52 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Model/Usuario.php on line 40
+[19-Jan-2017 10:31:29 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/ProcesosController.php on line 69
+[19-Jan-2017 16:01:19 America/Detroit] PHP Fatal error:  Call to a member function find() on a non-object in /home/calidad/public_html/calidad/app/Controller/AuditoriasController.php on line 114
+[20-Jan-2017 15:14:27 America/Detroit] PHP Parse error:  syntax error, unexpected 'day' (T_STRING) in /home/calidad/public_html/calidad/app/View/Planauditorias/asignar3.ctp on line 70
+[20-Jan-2017 15:24:34 America/Detroit] PHP Parse error:  syntax error, unexpected 'day' (T_STRING) in /home/calidad/public_html/calidad/app/View/Planauditorias/asignar3.ctp on line 70
+[20-Jan-2017 15:30:36 America/Detroit] PHP Parse error:  syntax error, unexpected '$fechaPlan' (T_VARIABLE) in /home/calidad/public_html/calidad/app/View/Planauditorias/asignar3.ctp on line 73
+[20-Jan-2017 15:31:08 America/Detroit] PHP Parse error:  syntax error, unexpected '$fechaPlan' (T_VARIABLE) in /home/calidad/public_html/calidad/app/View/Planauditorias/asignar3.ctp on line 73
+[20-Jan-2017 16:24:16 America/Detroit] PHP Parse error:  syntax error, unexpected '?>' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 4
+[20-Jan-2017 16:25:14 America/Detroit] PHP Parse error:  syntax error, unexpected '?>' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 4
+[20-Jan-2017 16:36:01 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[20-Jan-2017 16:39:26 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[20-Jan-2017 16:39:27 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[20-Jan-2017 16:39:28 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[20-Jan-2017 16:39:29 America/Detroit] PHP Parse error:  syntax error, unexpected '<' in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[20-Jan-2017 16:47:27 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[21-Jan-2017 09:41:30 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[21-Jan-2017 09:41:30 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[21-Jan-2017 09:54:53 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[21-Jan-2017 09:55:21 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[21-Jan-2017 11:20:00 America/Detroit] PHP Parse error:  syntax error, unexpected '.' in /home/calidad/public_html/calidad/app/View/Planauditorias/index.ctp on line 22
+[21-Jan-2017 11:26:48 America/Detroit] PHP Parse error:  syntax error, unexpected '.' in /home/calidad/public_html/calidad/app/View/Planauditorias/index.ctp on line 22
+[22-Jan-2017 11:57:57 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[23-Jan-2017 11:02:34 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/Controller/EmpresasController.php on line 62
+[23-Jan-2017 11:04:12 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Controller/EmpresasController.php on line 36
+[23-Jan-2017 12:22:55 America/Detroit] PHP Parse error:  syntax error, unexpected '[' in /home/calidad/public_html/calidad/app/View/Usuarios/edit.ctp on line 32
+[23-Jan-2017 12:23:25 America/Detroit] PHP Parse error:  syntax error, unexpected '[' in /home/calidad/public_html/calidad/app/View/Usuarios/edit.ctp on line 32
+[23-Jan-2017 12:24:55 America/Detroit] PHP Parse error:  syntax error, unexpected '[' in /home/calidad/public_html/calidad/app/View/Usuarios/edit.ctp on line 32
+[24-Jan-2017 08:32:26 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Model/Empresa.php on line 40
+[24-Jan-2017 08:32:54 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Model/Empresa.php on line 40
+[24-Jan-2017 08:33:16 America/Detroit] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/calidad/public_html/calidad/app/Model/Empresa.php on line 40
+[24-Jan-2017 08:39:38 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting ',' or ';' in /home/calidad/public_html/calidad/app/Model/Empresa.php on line 56
+[14-Feb-2017 19:33:59 America/Detroit] PHP Parse error:  syntax error, unexpected ''=>$empresa_id)));' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/calidad/public_html/calidad/app/Controller/AuditoriasController.php on line 96
+[14-Feb-2017 19:34:04 America/Detroit] PHP Parse error:  syntax error, unexpected ''=>$empresa_id)));' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/calidad/public_html/calidad/app/Controller/AuditoriasController.php on line 96
+[14-Feb-2017 19:35:15 America/Detroit] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/calidad/public_html/calidad/app/Controller/AuditoriasController.php on line 94
+[14-Feb-2017 19:38:24 America/Detroit] PHP Parse error:  syntax error, unexpected ''or'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/calidad/public_html/calidad/app/Controller/AuditoriasController.php on line 94
+[14-Feb-2017 19:40:18 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 19:40:22 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 19:40:23 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 19:40:24 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 19:45:55 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 21:08:27 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 21:21:15 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 21:21:48 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 21:22:10 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[14-Feb-2017 21:23:02 America/Detroit] PHP Parse error:  syntax error, unexpected 'endforeach' (T_ENDFOREACH) in /home/calidad/public_html/calidad/app/View/Indicesplanificacions/indices.ctp on line 13
+[17-Feb-2017 14:43:07 America/Detroit] PHP Parse error:  syntax error, unexpected '@' in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 127
+[17-Feb-2017 14:44:03 America/Detroit] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/calidad/public_html/calidad/app/Controller/InformesController.php on line 161

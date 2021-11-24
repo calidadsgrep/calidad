@@ -1,0 +1,44 @@
+<?php
+App::uses('Paciente', 'Model');
+
+/**
+ * Paciente Test Case
+ */
+class PacienteTest extends CakeTestCase {
+
+/**
+ * Fixtures
+ *
+ * @var array
+ */
+	public $fixtures = array(
+		'app.paciente',
+		'app.cliente',
+		'app.facturacione',
+		'app.eps',
+		'app.medicamento',
+		'app.novedade'
+	);
+
+/**
+ * setUp method
+ *
+ * @return void
+ */
+	public function setUp() {
+		parent::setUp();
+		$this->Paciente = ClassRegistry::init('Paciente');
+	}
+
+/**
+ * tearDown method
+ *
+ * @return void
+ */
+	public function tearDown() {
+		unset($this->Paciente);
+
+		parent::tearDown();
+	}
+
+}
